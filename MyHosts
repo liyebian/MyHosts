@@ -4,8 +4,8 @@
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
-218.102.23.3 www.google.com
-218.102.23.3 google.com
+216.58.193.196 www.google.com
+216.58.193.206 google.com
 218.102.23.3 gcr.io
 218.102.23.3 www.gcr.io
 218.102.23.3 admin.google.com
